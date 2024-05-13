@@ -1,16 +1,29 @@
 # SitioFarmacia
 Proyecto que representa ser un servicio web de una clinica mediante CRUD utilizando HTML, JavaScript, CSS, Bootstrap, Python y Flask.
 
-Librerias (Por orden de instalación)
-- venv
-- flask
-- mysqldb
-- mysql-wtf
-- flask mail
-- wkhtmltopdf
-- jinja2
-- pdfkit
+<strong>Librerias (Por orden de instalación)</strong></br>
+<ul>
+<li>venv</li>
+<li>flask</li>
+<li>mysqldb</li>
+<li>mysql-wtf</li>
+<li>flask mail</li>
+<li>wkhtmltopdf</li>
+<li>jinja2</li>
+<li>pdfkit</li>
+</ul></p>
 
-El proyecto cuenta con elementos de definición de rutas, metodos POST de login y de registro, al igual que los metodos para agregar, editar y eliminar pacientes, también cuenta con elementos de definición para agendar citas medicas y enviarlos al correo mediante flask mail de la mano del servidor smtp de Gmail misma que al obtener los datos del formulario, constryue el cuerpo del correo y los envia al solicitante.
+<p>El proyecto cuenta con elementos de definición de rutas, metodos POST de login y de registro, al igual que los metodos para agregar, editar y eliminar pacientes, también cuenta con elementos de definición para agendar citas medicas y enviarlos al correo mediante flask mail de la mano del servidor smtp de Gmail misma que al obtener los datos del formulario, constryue el cuerpo del correo y los envia al solicitante.</p>
 
-(Actualizado el Domingo 26 de Marzo del 2023)
+<strong>Tecnologías utilizadas</strong></br>
+<ul>
+<li>HTML</li>
+<li>CSS</li>
+<li>Python</li>
+<li>SCSS</li>
+<li>JavaScript</li>
+</ul></p>
+
+<strong>Declaración de Derechos de Autor.</strong></p>
+Esta declaración de derechos de autor se aplica a todas las fotografías, ilustraciones, gráficos, contenidos e imágenes que se encuentran en esta aplicación. © Copyright 2023 Universidad Autónoma de Chiapas. Todos los Derechos son Reservados. 
+</p>
