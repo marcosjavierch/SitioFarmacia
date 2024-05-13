@@ -1,5 +1,7 @@
 # SitioFarmacia
-Proyecto que representa ser un servicio web de una clinica mediante CRUD utilizando HTML, JavaScript, CSS, Bootstrap, Python y Flask.
+Repositorio de proyecto que representa ser un servicio web de una clinica mediante CRUD utilizando HTML, JavaScript, CSS, Bootstrap, Python y Flask, desarrollado como propuesta para la clinica FarmaLab mediante la Universidad Autónoma de Chiapas
+
+<img src="https://github.com/marcosjavierch/SitioFarmacia/blob/main/static/images/farmalogo.jpg" width="200px" alt="logotipo App"> </br>
 
 <strong>Librerias (Por orden de instalación)</strong></br>
 <ul>
@@ -22,6 +24,7 @@ Proyecto que representa ser un servicio web de una clinica mediante CRUD utiliza
 <li>Python</li>
 <li>SCSS</li>
 <li>JavaScript</li>
+<li>Bootstrap</li>
 </ul></p>
 
 <strong>Declaración de Derechos de Autor.</strong></p>
